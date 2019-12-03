@@ -4,7 +4,7 @@ I am actually using the nokia phone panel number for encrypt string letters.
 
 
 
-Here is an example of a Nokia touch Panel
+Here is an example of a Nokia touch Panel . Open it in RAW ;D
 
                 .sss.      
                 $P'`T.     
